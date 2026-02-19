@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfileListApp</string>
+
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_age">Enter Age</string>
+    <string name="btn_add_profile">Add Profile</string>
+    <string name="profiles_placeholder">Profiles will appear here</string>
+</resources>
