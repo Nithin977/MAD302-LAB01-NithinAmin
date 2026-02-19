@@ -6,7 +6,7 @@
  * Date: February 19, 2026
  *
  * Description:
- * Data class used to store profile information (name and age).
+ * Data class used to store profile information (name and age)s
  */
 
 package com.example.profilelistapp
